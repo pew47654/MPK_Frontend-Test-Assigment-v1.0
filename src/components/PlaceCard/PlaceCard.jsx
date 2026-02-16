@@ -89,6 +89,7 @@ function PlaceCard({ place }) {
           ))}
         </Box>
       </Box>
+      <Typography>Hello</Typography>
     </Card>
   );
 }
